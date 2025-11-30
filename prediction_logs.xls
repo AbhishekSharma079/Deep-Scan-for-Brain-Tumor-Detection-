@@ -1,0 +1,3 @@
+file_hash,filename,predicted,confidence_pct,model_output_len
+5c82cb4942ffc799e697fa294c42a3f102a252c079648c61388d7a08a9282fa7,Te-pi_0014.jpg,Class_1,10.0,10
+03778458c3d82abe8d8321a33cb39174e167e0657a3f2c0226f0bd786356ed08,Te-pi_0012.jpg,Class_8,10.0,10
