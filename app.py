@@ -106,8 +106,8 @@ st.markdown("""
 st.markdown('<div class="main-header">🧠 DeepScan Brain Tumor Detection</div>', unsafe_allow_html=True)
 
 # === Paths ===
-# testing_dataset_path = r"C:\Users\Abhis\Desktop\MRI IMAGE\Testing"
-testing_dataset_path = r"C:\Users\Abhis\Desktop\Testing"
+testing_dataset_path = r"C:\Users\Abhis\Desktop\MRI IMAGE\Testing"
+
 training_dataset_path = r"C:\Users\Abhis\Desktop\MRI IMAGE\Training"
 model_file = r"C:\Users\Abhis\Brain Tumor Detection Using deep learning\model.h5"
 features_cache_file = r"C:\Users\Abhis\Brain Tumor Detection Using deep learning\dataset_features_cache.pkl"
