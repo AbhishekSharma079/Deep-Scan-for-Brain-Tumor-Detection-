@@ -3,3 +3,12 @@ streamlit>=1.22.0
 opencv-python>=4.6.0
 numpy>=1.21.0
 Pillow>=9.0.0
+
+
+
+streamlit
+numpy
+pandas
+Pillow
+h5py
+tensorflow==2.15.1
